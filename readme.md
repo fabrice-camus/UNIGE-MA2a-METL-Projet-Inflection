@@ -7,11 +7,13 @@ Module MA2a - Printemps 2022
 ## Projet Morphological Inflection
 Implémentation d'un modèle seq2seq pour générer une forme fléchie depuis un lemme donné.
 
+La génération des formes fléchies ne fonctionne pas!
+
 ## Requirements
 Les dépendances sont dans le fichier requirements.txt
 
 ## Exécution
-Notebook run01.ipynb
+Notebook METL_Inflection.ipynb
 
 ## Licences
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
